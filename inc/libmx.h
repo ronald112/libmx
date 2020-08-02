@@ -29,6 +29,7 @@ void mx_printull(long long n);
 char *mx_addstr(char *str, char *arr);
 char *mx_addchr(char *str, char arr);
 char *mx_ltoa(long long number);
+bool mx_is_nb_in_str(char *str);
 
 // More fnc
 bool mx_isspace(char c);
